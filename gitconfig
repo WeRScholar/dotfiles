@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = social@werscholar.com
+	name = rajiv
